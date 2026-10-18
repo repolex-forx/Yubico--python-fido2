@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Yubico/python-fido2/commit/57dfac9182be4c5ab577bfde2f66dc520d69e763",
       "git:hexsha": "57dfac9182be4c5ab577bfde2f66dc520d69e763",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:04:53.584363+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Yubico/python-fido2/commit/7f1467309636241ffa6d1740a9d5b2372557083d",
