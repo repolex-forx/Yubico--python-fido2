@@ -1,0 +1,11 @@
+{
+  "org": "Yubico",
+  "repo": "python-fido2",
+  "versions": [
+    {
+      "commit": "57dfac9182be4c5ab577bfde2f66dc520d69e763",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:04:53.584932+00:00"
+    }
+  ]
+}
